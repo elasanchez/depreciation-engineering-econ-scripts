@@ -28,6 +28,7 @@ Usage in terminal(Except for MACRS):
 To run: 'python MACRS.py 4000  5'
   - 4000 is the Book Value (initial cost)
   - 5 is the number of depreciation years
-##### Note* Salvage value is assumed to be 0 for MACRS
-#####       Depreiciation years must be one of the following:
-#####       (3,5,7,10,15,20)
+##### Note*
+#####   - Salvage value is assumed to be 0 for MACRS
+#####   - Depreiciation years must be one of the following:
+#####       ( 3,5,7,10,15,20 ) for MARCRS
