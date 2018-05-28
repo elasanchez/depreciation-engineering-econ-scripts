@@ -3,7 +3,7 @@ I created these scripts to double check my engineering economics homework on fou
 
 
 
-###Usage in terminal(Except for MACRS):
+### Usage in terminal(Except for MACRS):
 ##### python  "method_name.py"  Book-Value  Salvage-Value  Depreciation-Year(s)
 ##### Note* Salvage-Value can be 0.
 
