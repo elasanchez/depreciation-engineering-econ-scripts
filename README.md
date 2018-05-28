@@ -1,6 +1,13 @@
 # depreciation-engineering-econ-scripts
 I created these scripts to double check my engineering economics homework on four standard depreciation methods.
 
+
+
+###Usage in terminal(Except for MACRS):
+##### python  "method_name.py"  Book-Value  Salvage-Value  Depreciation-Year(s)
+##### Note* Salvage-Value can be 0.
+
+
 ### Straight-Line (SL),
 To run: `python sl.py 4000 700  5`
   - 4000 is the Book Value (initial cost)
@@ -19,9 +26,6 @@ To run: `python SOYD.py 4000 700  5`
   - 5 is the number of depreciation years
 
 
-Usage in terminal(Except for MACRS):
-### python  "method_name.py"  Book-Value  Salvage-Value  Depreciation-Year(s)
-##### Note* Salvage-Value can be 0.
 
 
 ### Modified Accelerated Cost Recovery System (MACRS) for Non-residential property
